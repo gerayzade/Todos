@@ -1,4 +1,3 @@
-# Todos
 ## Managing to-do tasks
 
 ### Start 
