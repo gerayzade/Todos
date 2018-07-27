@@ -1,0 +1,15 @@
+{
+  "short_name": "Todos",
+  "name": "Todos",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "48x48 32x32 24x24 16x16",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#f3f3f3",
+  "background_color": "#f3f3f3"
+}
