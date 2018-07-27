@@ -2,6 +2,7 @@
   "name": "todos",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://gerayzade.github.io/Todos",
   "dependencies": {
     "lodash.clonedeep": "^4.5.0",
     "react": "^16.4.1",
